@@ -23,4 +23,6 @@
 
 🔗 https://www.analystbuilder.com/ 
 
+💖 I'd like to credit my friend Athina for inspiring the analysis of Zolotas's speech.
+
    
