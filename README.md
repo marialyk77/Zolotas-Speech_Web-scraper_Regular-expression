@@ -16,6 +16,11 @@
 
    - After separating each word into its own value using the re.split() function, I stored the resulting list of words in a DataFrame. 
    
-   - Subsequently, I exported the DataFrame to a CSV file for easy access. 
+   - Subsequently, I exported the DataFrame to a CSV file for easy access.
+
+
+💖 I would like to extend my gratitude to Alex Freberg and his course, 'Python Programming for Beginners,' where I learned the valuable skills and techniques for scraping data from online sources. Without this foundational knowledge, this project would not have been possible. Thank you, Alex, for your guidance and support in my journey to mastering Python programming.
+
+🔗 https://www.analystbuilder.com/ 
 
    
