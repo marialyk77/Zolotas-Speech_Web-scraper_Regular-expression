@@ -12,7 +12,7 @@
 
    - An iterative process was employed to extract the specific paragraph that i was interested from the scraped text. 
 
-   - The text was cleaned of punctuation and formatted to lowercase to facilitate counting the occurrence of each word. 
+   - The text was cleaned of punctuation using Regular Expression and formatted to lowercase to facilitate counting the occurrence of each word. 
 
    - After separating each word into its own value using the re.split() function, I stored the resulting list of words in a DataFrame. 
    
